@@ -1,16 +1,33 @@
-## Hi there 👋
+# cometa
 
-<!--
-**cometa3-rw/cometa3-rw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer · VERIDIAN**
 
-Here are some ideas to get you started:
+*Building the foundations of interstellar computing.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About
+
+Software engineer working on foundational systems and intelligent computing at **VERIDIAN**.
+
+Focused on building reliable, adaptable software that operates across diverse environments and computing platforms.
+
+### Projects
+
+#### [BERYL](https://github.com/cometa3-rw/beryl)
+
+**General-purpose Operating System**
+
+A unified computing foundation designed for a wide range of devices and applications.
+
+Named after the beryl mineral family, BERYL embodies a simple principle: a shared foundation can support many distinct forms.
+
+### Technologies
+
+`Systems Engineering` · `Software Architecture` · `Distributed Systems` · `AI`
+
+---
+
+<sub>VERIDIAN · Software Engineering</sub>
+
+<sub>*One foundation. Many possibilities.*</sub>
